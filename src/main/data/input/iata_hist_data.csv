@@ -1,0 +1,317 @@
+IATA,AIRPORT,CITY,STATE,COUNTRY
+AKN,King Salmon,King Salmon,AK,USA
+ABQ,Albuquerque International,Albuquerque,NM,USA
+ANC,Ted Stevens Anchorage International,Anchorage,AK,USA
+ATL,William B Hartsfield-Atlanta Intl,Atlanta,GA,USA
+AUS,Austin-Bergstrom International,Austin,TX,USA
+BDL,Bradley International,Windsor Locks,CT,USA
+BHM,Birmingham International,Birmingham,AL,USA
+BNA,Nashville International,Nashville,TN,USA
+BOS,Gen Edw L Logan Intl,Boston,MA,USA
+BUF,Buffalo Niagara Intl,Buffalo,NY,USA
+BUR,Burbank-Glendale-Pasadena,Burbank,CA,USA
+BWI,Baltimore-Washington International,Baltimore,MD,USA
+CHS,Charleston AFB International,Charleston,SC,USA
+CLE,Cleveland-Hopkins Intl,Cleveland,OH,USA
+CLT,Charlotte Douglas International,Charlotte,NC,USA
+CMH,Port Columbus Intl,Columbus,OH,USA
+CVG,Cincinnati Northern Kentucky Intl,Covington,KY,USA
+DAL,Dallas Love ,Dallas,TX,USA
+DCA,Ronald Reagan Washington National,Arlington,VA,USA
+DEN,Denver Intl,Denver,CO,USA
+DFW,Dallas-Fort Worth International,Dallas-Fort Worth,TX,USA
+DTW,Detroit Metropolitan-Wayne County,Detroit,MI,USA
+ELP,El Paso International,El Paso,TX,USA
+EWR,Newark Intl,Newark,NJ,USA
+FLL,Fort Lauderdale-Hollywood Int'l,Ft. Lauderdale,FL,USA
+HNL,Honolulu International,Honolulu,HI,USA
+HOU,William P X,Houston,TX,USA
+IAD,Washington Dulles International,Chantilly,VA,USA
+IAH,George Bush Intercontinental,Houston,TX,USA
+IND,Indianapolis International,Indianapolis,IN,USA
+JAX,Jacksonville International,Jacksonville,FL,USA
+JFK,John F Kennedy Intl,New York,NY,USA
+LAS,McCarran International,Las Vegas,NV,USA
+LAX,Los Angeles International,Los Angeles,CA,USA
+LGA,LaGuardia,New York,NY,USA
+LIT,Adams ,Little Rock,AR,USA
+MCI,Kansas City International,Kansas City,MO,USA
+MCO,Orlando International,Orlando,FL,USA
+MDW,Chicago Midway,Chicago,IL,USA
+MEM,Memphis International,Memphis,TN,USA
+MIA,Miami International,Miami,FL,USA
+MKE,General Mitchell International,Milwaukee,WI,USA
+MSP,Minneapolis-St Paul Intl,Minneapolis,MN,USA
+MSY,New Orleans International ,New Orleans,LA,USA
+OAK,Metropolitan Oakland International,Oakland,CA,USA
+OGG,Kahului,Kahului,HI,USA
+OKC,Will Rogers World,Oklahoma City,OK,USA
+OMA,Eppley Airfield,Omaha,NE,USA
+ONT,Ontario International,Ontario,CA,USA
+ORD,Chicago O'Hare International,Chicago,IL,USA
+ORF,Norfolk International,Norfolk,VA,USA
+PBI,Palm Beach International,West Palm Beach,FL,USA
+PDX,Portland Intl,Portland,OR,USA
+PHL,Philadelphia Intl,Philadelphia,PA,USA
+PHX,Phoenix Sky Harbor International,Phoenix,AZ,USA
+PIT,Pittsburgh International,Pittsburgh,PA,USA
+PVD,Theodore F Green State,Providence,RI,USA
+RDU,Raleigh-Durham International,Raleigh,NC,USA
+RIC,Richmond International,Richmond,VA,USA
+RNO,Reno Tahoe International,Reno,NV,USA
+RSW,Southwest Florida International,Ft. Myers,FL,USA
+SAN,San Diego International-Lindbergh ,San Diego,CA,USA
+SAT,San Antonio International,San Antonio,TX,USA
+SDF,Louisville International-Standiford ,Louisville,KY,USA
+SEA,Seattle-Tacoma Intl,Seattle,WA,USA
+SFO,San Francisco International,San Francisco,CA,USA
+SJC,San Jose International,San Jose,CA,USA
+SJU,Luis Munoz Marin International,San Juan,PR,USA
+SLC,Salt Lake City Intl,Salt Lake City,UT,USA
+SMF,Sacramento International,Sacramento,CA,USA
+SNA,John Wayne  Orange Co,Santa Ana,CA,USA
+STL,Lambert-St Louis International,St Louis,MO,USA
+TPA,Tampa International ,Tampa,FL,USA
+TUL,Tulsa International,Tulsa,OK,USA
+TUS,Tucson International,Tucson,AZ,USA
+ABE,Lehigh Valley International,Allentown,PA,USA
+ABI,Abilene Regional,Abilene,TX,USA
+ABR,Aberdeen Regional,Aberdeen,SD,USA
+ABY,Southwest Georgia Regional,Albany,GA,USA
+ACK,Nantucket Memorial,Nantucket,MA,USA
+ACT,Waco Regional,Waco,TX,USA
+ACV,Arcata,Arcata Eureka,CA,USA
+ACY,Atlantic City International,Atlantic City,NJ,USA
+ADK,Adak,Adak,AK,USA
+ADQ,Kodiak ,Kodiak,AK,USA
+AEX,Alexandria International,Alexandria,LA,USA
+AGS,Bush ,Augusta,GA,USA
+ALB,Albany Cty,Albany,NY,USA
+ALO,Waterloo Municipal,Waterloo,IA,USA
+AMA,Amarillo International,Amarillo,TX,USA
+APN,Alpena County Regional ,Alpena,MI,USA
+ART,Watertown Intl,Watertown,NY,USA
+ASE,Aspen-Pitkin Co Sardy ,Aspen,CO,USA
+ATW,Outagamie County Regional,Appleton,WI,USA
+AVL,Asheville Regional,Asheville,NC,USA
+AVP,Wilkes-Barre Scranton Intl,Wilkes-Barre Scranton,PA,USA
+AZO,Kalamazoo County,Kalamazoo,MI,USA
+BET,Bethel,Bethel,AK,USA
+BGM,Binghamton Regional,Binghamton,NY,USA
+BGR,Bangor International,Bangor,ME,USA
+BIL,Billings Logan Intl,Billings,MT,USA
+BIS,Bismarck Municipal,Bismarck,ND,USA
+BJI,Bemidji-Beltrami County,Bemidji,MN,USA
+BLI,Bellingham Intl,Bellingham,WA,USA
+BMI,Central Illinois Regional,Bloomington,IL,USA
+BOI,Boise Air Terminal,Boise,ID,USA
+BPT,Southeast Texas Regional,Beaumont Port Arthur,TX,USA
+BQK,Glynco Jetport,Brunswick,GA,USA
+BQN,Rafael Hernandez,Aguadilla,PR,USA
+BRD,Brainerd-Crow Wing County Regional,Brainerd,MN,USA
+BRO,Brownsville S.Padre Island International,Brownsville,TX,USA
+BRW,Wiley Post Will Rogers Memorial,Barrow,AK,USA
+BTM,Bert Mooney,Butte,MT,USA
+BTR,Baton Rouge Metropolitan,Baton Rouge,LA,USA
+BTV,Burlington International,Burlington,VT,USA
+BZN,Gallatin ,Bozeman,MT,USA
+CAE,Columbia Metropolitan,Columbia,SC,USA
+CAK,Akron-Canton Regional,Akron,OH,USA
+CDC,Cedar City Muni,Cedar City,UT,USA
+CDV,Merle K (Mudhole) Smith,Cordova,AK,USA
+CEC,Jack McNamara ,Crescent City,CA,USA
+CHA,Lovell ,Chattanooga,TN,USA
+CHO,Charlottesville-Albermarle,Charlottesville,VA,USA
+CIC,Chico Municipal,Chico,CA,USA
+CID,Eastern Iowa ,Cedar Rapids,IA,USA
+CIU,Chippewa County International,Sault Ste. Marie,MI,USA
+CLD,MC Clellan-Palomar Airport,NA,NA,USA
+CLL,Easterwood ,College Station,TX,USA
+CMI,University of Illinois-Willard,Champaign Urbana,IL,USA
+CMX,Houghton County Memorial,Hancock,MI,USA
+CNY,Canyonlands ,Moab,UT,USA
+COD,Yellowstone Regional,Cody,WY,USA
+COS,City of Colorado Springs Muni,Colorado Springs,CO,USA
+COU,Columbia Regional,Columbia,MO,USA
+CPR,Natrona County Intl,Casper,WY,USA
+CRP,Corpus Christi International,Corpus Christi,TX,USA
+CRW,Yeager,Charleston,WV,USA
+CSG,Columbus Metropolitan,Columbus,GA,USA
+CWA,Central Wisconsin,Mosinee,WI,USA
+CYS,Cheyenne,Cheyenne,WY,USA
+DAB,Daytona Beach International,Daytona Beach,FL,USA
+DAY,James M Cox Dayton Intl,Dayton,OH,USA
+DBQ,Dubuque Municipal,Dubuque,IA,USA
+DHN,Dothan ,Dothan,AL,USA
+DIK,Dickinson Municipal,Dickinson,ND,USA
+DLG,Dillingham,Dillingham,AK,USA
+DLH,Duluth International,Duluth,MN,USA
+DRO,Durango-La Plata County,Durango,CO,USA
+DRT,Del Rio International,Del Rio,TX,USA
+DSM,Des Moines International,Des Moines,IA,USA
+DVL,Devils Lake Municipal-Knoke ,Devils Lake,ND,USA
+EAU,Chippewa Valley Regional,Eau Claire,WI,USA
+EGE,Eagle County Regional,Eagle,CO,USA
+EKO,Elko Regional,Elko,NV,USA
+ELM,Elmira Corning Regional,Elmira,NY,USA
+ERI,Erie Intl,Erie,PA,USA
+ESC,Delta County,Escanaba,MI,USA
+EUG,Mahlon Sweet ,Eugene,OR,USA
+EVV,Evansville Regional,Evansville,IN,USA
+EWN,Craven County Regional,New Bern,NC,USA
+EYW,Key West International,Key West,FL,USA
+FAI,Fairbanks International,Fairbanks,AK,USA
+FAR,Hector International,Fargo,ND,USA
+FAT,Fresno Yosemite International,Fresno,CA,USA
+FAY,Fayetteville Municipal,Fayetteville,NC,USA
+FCA,Glacier Park Intl,Kalispell,MT,USA
+FLG,Flagstaff Pulliam,Flagstaff,AZ,USA
+FLO,Florence Regional,Florence,SC,USA
+FNT,Bishop,Flint,MI,USA
+FOE,Forbes ,Topeka,KS,USA
+FSD,Joe Foss ,Sioux Falls,SD,USA
+FSM,Fort Smith Regional,Fort Smith,AR,USA
+FWA,Fort Wayne International,Fort Wayne,IN,USA
+GCC,Gillette-Campbell County,Gillette,WY,USA
+GCK,Garden City Regional,Garden City,KS,USA
+GEG,Spokane Intl,Spokane,WA,USA
+GFK,Grand Forks International,Grand Forks,ND,USA
+GGG,Gregg County,Longview,TX,USA
+GJT,Walker ,Grand Junction,CO,USA
+GNV,Gainesville Regional,Gainesville,FL,USA
+GPT,Gulfport-Biloxi Regional,Gulfport-Biloxi,MS,USA
+GRB,Austin Straubel International,Green Bay,WI,USA
+GRI,Central Nebraska Regional ,Grand Island,NE,USA
+GRK,Robert Gray AAF,Killeen,TX,USA
+GRR,Kent County International,Grand Rapids,MI,USA
+GSO,Piedmont Triad International,Greensboro,NC,USA
+GSP,Greenville-Spartanburg,Greer,SC,USA
+GST,Gustavus,Gustavus,AK,USA
+GTF,Great Falls Intl,Great Falls,MT,USA
+GTR,Golden Triangle Regional,Columbus-Starkville-West Point,MS,USA
+GUC,Gunnison County,Gunnison,CO,USA
+GUM,Guam International,Agana,GU,USA
+HDN,Yampa Valley,Hayden,CO,USA
+HIB,Chisholm-Hibbing,Hibbing,MN,USA
+HLN,Helena Regional,Helena,MT,USA
+HOB,Lea County Regional,Hobbs,NM,USA
+HPN,Westchester Cty,White Plains,NY,USA
+HRL,Valley International,Harlingen,TX,USA
+HSV,Huntsville International ,Huntsville,AL,USA
+HTS,Tri-State Walker-Long ,Huntington,WV,USA
+HYA,Barnstable Mun Boardman Polando ,Hyannis,MA,USA
+HYS,Hays Municipal,Hays,KS,USA
+ICT,Wichita Mid-Continent,Wichita,KS,USA
+IDA,Idaho Falls Regional,Idaho Falls,ID,USA
+ILG,New Castle County ,Wilmington,DE,USA
+ILM,Wilmington International,Wilmington,NC,USA
+IMT,Ford,Iron Mountain Kingsford,MI,USA
+INL,Falls International,International Falls,MN,USA
+IPL,Imperial County,Imperial,CA,USA
+ISN,Sloulin Field International,Williston,ND,USA
+ISP,Long Island - MacArthur,Islip,NY,USA
+ITH,Tompkins Cty ,Ithaca,NY,USA
+ITO,Hilo International,Hilo,HI,USA
+IYK,Inyokern,Inyokern,CA,USA
+JAC,Jackson Hole,Jackson,WY,USA
+JAN,Jackson International,Jackson,MS,USA
+JLN,Joplin Regional,Joplin,MO,USA
+JMS,Jamestown Municipal,Jamestown,ND,USA
+JNU,Juneau International,Juneau,AK,USA
+KOA,Kona International At Keahole,Kailua Kona,HI,USA
+KTN,Ketchikan International,Ketchikan,AK,USA
+LAN,Capital City,Lansing,MI,USA
+LAR,Laramie Regional,Laramie,WY,USA
+LAW,Lawton-Ft Sill Regional,Lawton,OK,USA
+LBB,Lubbock International,Lubbock,TX,USA
+LCH,Lake Charles Regional,Lake Charles,LA,USA
+LEX,Blue Grass ,Lexington,KY,USA
+LFT,Lafayette Regional,Lafayette,LA,USA
+LGB,Long Beach (Daugherty ),Long Beach,CA,USA
+LIH,Lihue,Lihue,HI,USA
+LMT,Klamath Falls International,Klamath Falls,OR,USA
+LNK,Lincoln Municipal,Lincoln,NE,USA
+LRD,Laredo International,Laredo,TX,USA
+LSE,La Crosse Municipal,La Crosse,WI,USA
+LWB,Greenbrier Valley,Lewisburg,WV,USA
+LWS,Lewiston-Nez Perce County,Lewiston,ID,USA
+LYH,Lynchburg Municipal-Preston Glenn ,Lynchburg,VA,USA
+MAF,Midland International,Midland,TX,USA
+MBS,Mbs International,Saginaw,MI,USA
+MCN,Middle Georgia Regional,Macon,GA,USA
+MDT,Harrisburg Intl,Harrisburg,PA,USA
+MEI,Key ,Meridian,MS,USA
+MFE,McAllen Miller International,McAllen,TX,USA
+MFR,Rogue Valley International,Medford,OR,USA
+MGM,Montgomery Regional Apt,Montgomery,AL,USA
+MHK,Manhattan Regional,Manhattan,KS,USA
+MHT,Manchester,Manchester,NH,USA
+MKG,Muskegon County,Muskegon,MI,USA
+MLB,Melbourne International ,Melbourne,FL,USA
+MLI,Quad City,Moline,IL,USA
+MLU,Monroe Regional,Monroe,LA,USA
+MMH,Mammoth Yosemite,Mammoth Lakes,CA,USA
+MOB,Mobile Regional,Mobile,AL,USA
+MOD,Modesto City-County-Harry Sham ,Modesto,CA,USA
+MOT,Minot International,Minot,ND,USA
+MQT,Marquette County Airport,NA,NA,USA
+MRY,Monterey Peninsula,Monterey,CA,USA
+MSN,Dane County Regional,Madison,WI,USA
+MSO,Missoula International,Missoula,MT,USA
+MTJ,Montrose Regional,Montrose,CO,USA
+MVY,Marthas Vineyard,Marthas Vineyard,MA,USA
+MWH,Grant County,Moses Lake,WA,USA
+MYR,Myrtle Beach International,Myrtle Beach,SC,USA
+OAJ,Albert J Ellis,Jacksonville,NC,USA
+OME,Nome,Nome,AK,USA
+ORH,Worcester Regional,Worcester,MA,USA
+OTH,North Bend Muni,North Bend,OR,USA
+OTZ,Ralph Wien Memorial,Kotzebue,AK,USA
+OXR,Oxnard,Oxnard,CA,USA
+PAH,Barkley Regional,Paducah,KY,USA
+PFN,Panama City-Bay County International,Panama City,FL,USA
+PHF,Newport News Williamsburg International,Newport News,VA,USA
+PIA,Greater Peoria Regional,Peoria,IL,USA
+PIB,Hattiesburg-Laurel Regional,Hattiesburg-Laurel,MS,USA
+PIE,St. Petersburg-Clearwater International,St. Petersburg,FL,USA
+PIH,Pocatello Regional,Pocatello,ID,USA
+PIR,Pierre Regional,Pierre,SD,USA
+PLN,Pellston Regional  of Emmet County,Pellston,MI,USA
+PNS,Pensacola Regional,Pensacola,FL,USA
+PPG,Pago Pago International,Pago Pago,AS,USA
+PSC,Tri-Cities,Pasco,WA,USA
+PSE,Mercedita,Ponce,PR,USA
+PSG,James C. Johnson Petersburg,Petersburg,AK,USA
+PSP,Palm Springs International,Palm Springs,CA,USA
+PUB,Pueblo Memorial,Pueblo,CO,USA
+PWM,Portland International Jetport,Portland,ME,USA
+RAP,Rapid City Regional,Rapid City,SD,USA
+RDD,Redding Municipal,Redding,CA,USA
+RDM,Roberts ,Redmond,OR,USA
+RFD,Greater Rockford,Rockford,IL,USA
+RHI,Rhinelander-Oneida County,Rhinelander,WI,USA
+RKS,Rock Springs-Sweetwater County,Rock Springs,WY,USA
+ROA,Roanoke Regional  Woodrum ,Roanoke,VA,USA
+ROC,Greater Rochester Int'l,Rochester,NY,USA
+ROW,Roswell Industrial Air Center,Roswell,NM,USA
+RST,Rochester International,Rochester,MN,USA
+SAF,Santa Fe Municipal,Santa Fe,NM,USA
+SAV,Savannah International,Savannah,GA,USA
+SBA,Santa Barbara Municipal,Santa Barbara,CA,USA
+SBN,South Bend Regional,South Bend,IN,USA
+SBP,San Luis Obispo Co-McChesney ,San Luis Obispo,CA,USA
+SCC,Deadhorse,Deadhorse,AK,USA
+SCE,University Park,NA,NA,USA
+SGF,Springfield-Branson Regional,Springfield,MO,USA
+SGU,St George Muni,St George,UT,USA
+SHD,Shenandoah Valley Regional,Staunton Harrisonburg,VA,USA
+SHV,Shreveport Regional,Shreveport,LA,USA
+SIT,Sitka,Sitka,AK,USA
+SJT,San Angelo Regional  Mathis ,San Angelo,TX,USA
+SMX,Santa Maria Pub Capt G Allan Hancock ,Santa Maria,CA,USA
+SPI,Capital,Springfield,IL,USA
+SPS,Sheppard AFB Wichita Falls Municipal,Wichita Falls,TX,USA
+SRQ,Sarasota Bradenton International,Sarasota,FL,USA
+STC,St Cloud Regional,St Cloud,MN,USA
+STT,Cyril E. King,Charlotte Amalie,VI,USA
+BFL,Meadows ,Bakersfield,CA,USA

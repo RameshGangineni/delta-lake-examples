@@ -1,0 +1,12 @@
+sl_no,gender,ssc_p,hsc_p,degree_p,mba_p,specialisation,workex,status,salary
+205,F,74,73,73,80,Mkt&Fin,Yes,Placed,210000
+206,M,61,62,65,62,Mkt&Fin,No,Placed,250000
+207,M,41,42,60,97,Mkt&Fin,No,Not Placed,
+208,M,83.33,78,61,88,Mkt&Fin,Yes,Placed,300000
+209,F,43,60,65,92,Mkt&HR,No,Not Placed,
+210,M,62,72,65,67.23,Mkt&Fin,No,Placed,216000
+211,M,80.6,82,77.6,91,Mkt&Fin,No,Placed,400000
+212,M,58,60,72,74,Mkt&Fin,No,Placed,275000
+213,M,67,67,73,59,Mkt&Fin,Yes,Placed,295000
+214,F,74,66,58,70,Mkt&HR,No,Placed,204000
+215,M,62,58,53,89.88,Mkt&HR,No,Not Placed,
