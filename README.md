@@ -15,6 +15,7 @@ spark-shell --packages io.delta:delta-core_2.11:0.3.0
 
 #### References: 
 https://delta.io/
+
 https://www.learningjournal.guru/
 
 DataSets are downloaded from kaggle and updated to mock the scenario's
