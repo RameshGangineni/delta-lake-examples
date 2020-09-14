@@ -7,16 +7,14 @@ pip3 install parquet-tools
 
 parquet-tools inspect ${parquet_file} -> to get metadata of parquet file
 
-### PySpark Shell with delta dependency
+### Python Spark(PySpark) with delta dependency
 pyspark --packages io.delta:delta-core_2.11:0.3.0
 
-### Scala Shell with delta dependency
+### Scala Spark Shell with delta dependency
 spark-shell --packages io.delta:delta-core_2.11:0.3.0
 
-#### Ref: 
+#### References: 
 https://delta.io/
-
 https://www.learningjournal.guru/
 
-DataSets for downloaded from kaggle and updated to mock the scenario's
-
+DataSets are downloaded from kaggle and updated to mock the scenario's
